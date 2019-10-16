@@ -39,11 +39,11 @@ b = Math.floor(Math.random()*1000)
 
 function makeInt(n) {
   parseInt(n, 10);
-  return n
 }
 a = Math.floor(Math.random()*1000)
 b = Math.floor(Math.random()*1000)
 
 function preserveDecimal(n) {
   parseFloat(n);
+
 }
